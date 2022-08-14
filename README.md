@@ -1,4 +1,4 @@
-# ADS599-Predicting Woman, Infant, and Children Participant Churn
+# Predicting Woman, Infant, and Children Participant Churn
 
 This project is a part of the ADS599 (Capstone) course in the Applied Data Science Program at the University of San Diego.
 
